@@ -1,0 +1,50 @@
+Google
+Microsoft
+Apple
+Atlassian
+Twilio
+Tower Research
+Juniper Networks
+Cisco
+Qualcomm
+Mediatek
+Amazon
+DE Shaw
+Walmart Labs
+Flipkart
+Myntra
+Intuit
+Directi
+Twitter
+LinkedIn
+Uber
+Goldman Sachs
+Arcesium
+Nutanix
+Adobe
+ServiceNow
+Salesforce
+GoJek
+Freshworks
+Paytm
+InMobi
+SAP Labs
+Tide.co
+Ola
+Rubrik
+Swiggy
+Media.net
+Samsung
+Postman
+Oracle
+Intel
+NetApp
+Expedia
+Dream11
+Sprinkler
+App Dynamics
+WorldQuant
+Somo Logic
+Morgan Stanley
+Target
+Paypal

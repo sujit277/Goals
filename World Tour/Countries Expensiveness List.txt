@@ -1,0 +1,141 @@
+Rank    Country          Cost of Living Plus Rent Index
+
+1	Bermuda	        123.80
+2	Switzerland	90.62
+3	Jersey	        79.51
+4	Hong Kong	77.83
+5	Singapore	75.75
+6	Luxembourg	70.93
+7	Iceland	        70.05
+8	Norway	        69.86
+9	Guernsey	69.73
+10	Israel	        62.69
+11	Bahamas	        61.19
+12	Denmark	        60.26
+13	Ireland	        60.13
+14	Barbados	59.38
+15	Australia	58.57
+16	Netherlands	57.10
+17	United States	56.98
+18	Qatar	        55.96
+19	New Zealand	55.73
+20	Macao	        55.65
+21	Canada	        53.40
+22	Japan	        53.04
+23	United Kingdom	51.93
+24	United Arab Emirates	51.28
+25	France	        51.26
+26	Finland	        51.05
+27	Belgium	        50.67
+28	Austria	        50.46
+29	Sweden	        50.23
+30	Seychelles	50.19
+31	Malta	        49.97
+32	Lebanon	        48.61
+33	South Korea	48.28
+34	Germany	        47.78
+35	Italy	        44.95
+36	Maldives	44.78
+37	Puerto Rico	43.97
+38	Bahrain	        42.79
+39	Cyprus	        41.84
+40	Taiwan	        41.42
+41	Kuwait	        40.54
+42	Spain	        38.58
+43	Panama	        37.51
+44	Senegal	        37.46
+45	Slovenia	37.01
+46	Trinidad And Tobago	36.64
+47	Cuba          	36.36
+48	Estonia	        36.19
+49	Palestine	36.03
+50	Greece	        35.81
+51	Portugal	35.19
+52	Czech Republic	34.25
+53	Uruguay	        34.19
+54	Oman	        34.11
+55	Jamaica	        33.46
+56	Cambodia	33.44
+57	Ivory Coast	33.27
+58	Ethiopia	33.14
+59	Nigeria	        33.07
+60	Belize	        32.71
+61	Croatia	        32.27
+62	Saudi Arabia	32.25
+63	Suriname	32.06
+64	Costa Rica	31.87
+65	Libya	        31.73
+66	Yemen	        31.38
+67	Lithuania	31.29
+68	Slovakia	31.29
+69	Latvia	        31.26
+70	Fiji	        31.26
+71	Jordan	        30.46
+72	Guatemala	30.42
+73	South Africa	30.14
+74	China	        29.93
+75	Thailand	29.84
+76	El Salvador	29.75
+77	Chile	        29.66
+78	Myanmar	        28.87
+79	Mauritius	28.55
+80	Zimbabwe	28.37
+81	Ghana      	28.28
+82	Iran	        27.85
+83	Venezuela	27.63
+84	Poland	        27.46
+85	Hungary	        27.18
+86	Montenegro	26.72
+87	Dominican Republic	26.68
+88	Honduras	26.31
+89	Botswana	26.12
+90	Vietnam	        26.11
+91	Nicaragua	25.13
+92	Ecuador	        25.12
+93	Russia	        24.87
+94	Mexico	        24.66
+95	Bulgaria	24.64
+96	Malaysia	24.29
+97	Rwanda	        24.25
+98	Cameroon	24.22
+99	Philippines	24.18
+100	Mongolia	23.72
+101	Indonesia	23.65
+102	Romania	        23.49
+103	Armenia	        23.45
+104	Serbia	        23.33
+105	Iraq	        23.29
+106	Bolivia	        23.24
+107	Tanzania	23.23
+108	Albania	        22.83
+109	Peru	        22.54
+110	Bosnia And Herzegovina	22.39
+111	Morocco	        22.18
+112	Kenya	        22.11
+113	Uganda	        22.10
+114	Argentina	22.04
+115	Zambia	        21.90
+116	Brazil	        21.54
+117	Ukraine 	21.27
+118	Belarus 	21.01
+119	Somalia 	20.79
+120	Paraguay	20.75
+121	Sri Lanka	20.48
+122	Georgia 	20.37
+123	Moldova 	20.20
+124	Bangladesh	19.67
+125	Kazakhstan	19.66
+126	North Macedonia	19.51
+127	Azerbaijan	19.48
+128	Uzbekistan	18.86
+129	Egypt   	18.41
+130	Turkey	        18.15
+131	Kosovo (Disputed Territory)	18.14
+132	Colombia	18.03
+133	Syria	        17.70
+134	Tunisia	        17.30
+135	Nepal    	16.89
+136	Algeria 	16.43
+137	India	        15.47
+138	Pakistan	12.42
+139	Afghanistan	12.09
