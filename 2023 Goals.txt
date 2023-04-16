@@ -1,0 +1,14 @@
+2023 Planning
+------------------
+January   -  Node.js / React.js
+February  -  Node.js / React.js
+March     -  Node.js / React.js
+April     -  Node.js / React.js
+May       -  Node.js / React.js
+June      -  Node.js / React.js
+July      -  Data Structures and Algorithm / Java
+August    -  Data Structures and Algorithm / Java
+September -  Data Structures and Algorithm / Java
+October   -  Data Structures and Algorithm / Java
+November  -  Data Structures and Algorithm / Java 
+December  -  Data Structures and Algorithm / Java

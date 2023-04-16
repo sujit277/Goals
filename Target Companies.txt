@@ -1,50 +1,133 @@
-Google
-Microsoft
+Popular Companies to Focus
+---------------------------------
+Google               - Connection
+Microsoft            - Connection
 Apple
 Atlassian
 Twilio
+EPAM                 - Connection
 Tower Research
 Juniper Networks
-Cisco
-Qualcomm
+Cisco                - Connection
+Qualcomm             - Connection
 Mediatek
-Amazon
-DE Shaw
-Walmart Labs
-Flipkart
-Myntra
+Amazon               - Connection
+DE Shaw              - Connection
+Daussault Systems    - Connection
+Walmart Labs         - Connection
+Flipkart             - Connection
+Myntra               - Connection
 Intuit
 Directi
 Twitter
-LinkedIn
-Uber
-Goldman Sachs
+LinkedIn             - Connection
+Uber                 - Connection
+Goldman Sachs        - Connection
 Arcesium
 Nutanix
-Adobe
-ServiceNow
-Salesforce
+Adobe                - Connection
+ServiceNow           - Connection
+Salesforce           - Connection
 GoJek
-Freshworks
-Paytm
+Freshworks           - Connection
 InMobi
-SAP Labs
+SAP Labs             - Sent
 Tide.co
 Ola
 Rubrik
-Swiggy
+Swiggy               - Connection
+Zomato               - Sent
 Media.net
 Samsung
 Postman
-Oracle
-Intel
+Oracle               - Sent
+Intel                - Connection
 NetApp
 Expedia
-Dream11
+Dream11              - Connection
 Sprinkler
 App Dynamics
 WorldQuant
 Somo Logic
-Morgan Stanley
+Morgan Stanley       - Connection
 Target
-Paypal
+Paypal               - Connection
+Deloitte             - Connection
+PWC                  - Connection
+Siemens              - Connection
+EY                   - Connection
+BCG                  - Connection
+Qualcomm             - Connection
+IQVIA                - Connection
+Wells Fargo India    - Connection
+Wissen Technology    - Sent
+Dell                 - In Progress
+Harman               - Connection
+Paytm                - Connection
+
+
+Companies With their Salaries 
+-----------------------------
+IBM                          Low - 4.5 High - 21   Avg - 8
+ABC                          Low - 7.6 High - 42   Avg - 20
+Legato Health Technologies   Low - 6   High - 15   Avg - 11
+xyz Company                  Low - 6   High - 36   Avg - 17 
+Wells Fargo India            Low - 8   High - 30   Avg - 18.5 
+Cisco                        Low - 10  High - 33   Avg - 21
+Optum                        Low - 6.5 High - 16   Avg - 16
+Google                       Low - 13  High - 100  Avg - 44
+Microsoft                    Low - 15  High - 55   Avg - 32
+Deloitte                     Low - 5   High - 18   Avg - 9
+Siemens                      Low - 7   High - 21   Avg - 13
+Oracle                       Low - 7.5 High - 33   Avg - 16
+Paytm                        Low - 7.5 High - 22   Avg - 13
+Qualcomm                     Low - 11  High - 30   Avg - 19
+Bank of America              Low - 7   High - 22   Avg - 13
+Societe Generale             Low - 5.5 High - 23   Avg - 12
+Dell                         Low - 5.2 High - 18   Avg - 10
+Rave Infosys                 Low - 3   High - 31   Avg - 13
+Ernst and Young              Low - 5   High - 16   Avg - 9
+Nagaroo                      Low - 4.5 High - 25   Avg - 10
+Samsung                      Low - 10  High - 27   Avg - 15
+Walmart                      Low - 13  High - 35   Avg - 24
+Lowe                         Low - 9   High - 20   Avg - 14
+Nokia                        Low - 6   High - 22   Avg - 11
+Ericsson                     Low - 4.8 High - 18   Avg - 18
+United Health                Low - 5   High - 16   Avg - 10
+Relience Jio                 Low - 5   High - 24   Avg - 10
+IQVIA                        Low - 5   High - 19   Avg - 10
+Broadcom                     Low - 5.3 High - 18   Avg - 11
+Test Yantra Software Soltions Low - 4  High - 40   Avg - 13
+Uber                         Low - 21  High - 200  Avg - 91
+Oyo Rooms                    Low - 9   High - 20   Avg - 13
+Hashdein                     Low - 8   High - 13   Avg - 9
+NetCraker                    Low - 7   High - 23   Avg - 13
+Natwest Group                Low - 9   High - 20   Avg - 14
+OpenText Technologies        Low - 8   High - 19   Avg - 13
+Wissen Technology            Low - 9   High - 19   Avg - 14
+CTS Consulting and Technical Support Low - 4.5 High - 11 Avg - 25
+NCR Corporation              Low - 7   High - 18   Avg - 18
+GE Healthcare                Low - 9   High - 16   Avg - 21
+Adobe                        Low - 11  High - 60   Avg - 29
+Verizon                      Low - 4.8 High - 16   Avg - 8.5
+Thomson reuters              Low - 6   High - 15   Avg - 10
+Publics Sapient              Low - 5   High - 23   Avg - 12
+Shell                        Low - 10  High - 25   Avg - 17
+Solitaire Infosys            Low - 3   High - 30   Avg - 11
+Harmans                      Low - 6   High - 20   Avg - 11
+Intel                        Low - 8   High - 35   Avg - 20
+Citrix                       Low - 8   High - 30   Avg - 18
+Apple                        Low - 15  High - 99   Avg - 39
+HoneyWell                    Low - 6   High - 17   Avg - 10
+GE Digital                   Low - 9   High - 18   Avg - 13
+
+
+
+
+
+
+
+
+
+
+
